@@ -1,0 +1,2 @@
+pyabsa==1.16.27
+gradio
