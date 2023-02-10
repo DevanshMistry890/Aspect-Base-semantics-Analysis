@@ -3,7 +3,7 @@
 This Notebook is created and Run in colab by Devansh Mistry. Deployed on Gradio.
 
 Just Open or clone in colab to use it. At end you will get Deployed version like this:
-<img src = "Home.png" width = "700px">
+<img src = "Home.png" width = "900px">
 
 # This Notebook is using PyABSA library, Citation
 
